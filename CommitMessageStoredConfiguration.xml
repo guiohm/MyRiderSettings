@@ -1,0 +1,10 @@
+<application>
+  <component name="CommitMessageStoredConfiguration">
+    <option name="jiraProjectPrefixes">
+      <list>
+        <option value="DEMAT" />
+      </list>
+    </option>
+    <option name="messageWrapperType" value="[]" />
+  </component>
+</application>
