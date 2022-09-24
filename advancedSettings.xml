@@ -4,7 +4,11 @@
       <map>
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="documentation.components.enable.highlighting.of.links" value="true" />
+        <entry key="editor.maximize.in.splits.on.double.click" value="true" />
         <entry key="se.text.search" value="true" />
+        <entry key="searcheverywhere.ml.sort.files" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
       </map>
     </option>
   </component>
