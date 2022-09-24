@@ -1,0 +1,16 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl exclamation_mark" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+</keymap>

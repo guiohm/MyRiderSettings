@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.1.1.49" id="b4946858-9f52-4d99-842b-9c2c6b397935" port="8080" nameFormat="DESCRIPTIVE" username="2p9YAuj4" useOpenSSHConfig="false" />
+      <sshConfig authType="PASSWORD" host="home.guilhaume.fr" id="0f195c45-a476-4e38-bdd4-c648f068530a" port="2200" nameFormat="DESCRIPTIVE" username="code" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>

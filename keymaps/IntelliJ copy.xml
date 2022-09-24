@@ -1,0 +1,8 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="EditorSelectWord" />
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+</keymap>
