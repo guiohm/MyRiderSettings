@@ -1,6 +1,6 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="accentColor" value="789adb" />
-    <option name="themedColor" value="c0c0c6" />
+    <option name="monochromeColor" value="546e7a" />
+    <option name="customLineHeight" value="16" />
   </component>
 </application>
