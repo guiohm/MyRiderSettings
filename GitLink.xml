@@ -1,5 +1,16 @@
 <application>
   <component name="uk.co.ben_gibson.git.link.SettingsState">
+    <option name="customHostDomains">
+      <map>
+        <entry key="e0f86390-1091-4871-8aeb-f534fbc99cf0">
+          <value>
+            <set>
+              <option value="serv-git.siteleul.local" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="hits" value="1" />
     <option name="lastVersion" value="4.1.8" />
   </component>
