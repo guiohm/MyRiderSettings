@@ -1,0 +1,7 @@
+<application>
+  <component name="MonorepCommitStoredConfiguration">
+    <option name="defaultPrefix" value="PDT" />
+    <option name="wrapLeft" value="[" />
+    <option name="wrapRight" value="] " />
+  </component>
+</application>
